@@ -1,4 +1,4 @@
 print("hello python")
 
 def Google():
-    pass
+    print("Google")
